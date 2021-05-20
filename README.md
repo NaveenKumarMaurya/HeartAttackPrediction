@@ -1,6 +1,6 @@
 # HeartAttackPrediction
 ## Table of content
-1. Demo
+1. [Demo](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#overview)
 2. Overview
 3. Motivation
 4. Technical Aspect
