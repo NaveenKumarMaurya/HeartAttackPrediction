@@ -18,5 +18,7 @@ link :https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction
 ![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/heart-attack-silent.jpg)
 
 ## Overview
-
+This is a simple classification problem trained on scikit-learn library.The classification model takes 
+the independent variable eg. age,sex,cholestrol,blood pressure etc.,from heart attack data set to predict 
+whether the person will get heart attack or not.
 
