@@ -1,6 +1,6 @@
 # HeartAttackPrediction
 ## Table of content
-[1. Demo](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
+1. Demo
 2. Overview
 3. Motivation
 4. Technical Aspect
