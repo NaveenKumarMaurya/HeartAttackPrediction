@@ -2,7 +2,7 @@
 ## Table of content
 1. [Demo](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#demo)
 2. [Overview](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#overview)
-3. Motivation
+3. [Motivation](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#motivation)
 4. Technical Aspect
 5. Installation
 6. Run
