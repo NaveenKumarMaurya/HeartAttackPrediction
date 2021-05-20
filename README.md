@@ -22,3 +22,7 @@ This is a simple classification problem trained on scikit-learn library.The clas
 the independent variable eg. age,sex,cholestrol,blood pressure etc.,from heart attack data set to predict 
 whether the person will get heart attack or not.
 
+## Motivation
+In india, every year 30000 people get died from heart attack and this no increasing continuously every year
+thats why i was very curious to know about the effect of factors for the causes of heart attack
+
