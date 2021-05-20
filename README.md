@@ -24,5 +24,5 @@ whether the person will get heart attack or not.
 
 ## Motivation
 In india, every year 30000 people get died from heart attack and this no increasing continuously every year
-thats why i was very curious to know about the effect of factors for the causes of heart attack
+thats why i was very curious to know about the effect of factors which causes the  heart attack and what is inter relation among  the independent variables
 
