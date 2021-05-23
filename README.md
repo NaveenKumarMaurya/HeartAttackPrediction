@@ -38,4 +38,4 @@ thats why i was very curious to know about the effect of various factors which c
 mostly these people are died from heart attack, which factor is different in their bodies.
 
 ## Technical Aspect
-
+1.Using Pandas,data importing is done
