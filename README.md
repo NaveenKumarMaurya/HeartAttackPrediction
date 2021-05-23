@@ -37,3 +37,5 @@ In india, every year 30000 people get died from heart attack and this count is i
 thats why i was very curious to know about the effect of various factors which causes the  heart attack ,which factor is more responsible for haert attack and what is corr- relation among  those factors.In India most of the people who died from heart attack are the politicial,celebrity,bussinesman  and govt.officials.I was very curious to know why 
 mostly these people are died from heart attack, which factor is different in their bodies.
 
+## Technical Aspect
+
