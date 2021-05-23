@@ -48,3 +48,4 @@ mostly these people are died from heart attack, which factor is different in the
 
 5.used **AUC-ROC** curve to check the ability of our model classifier to distinguish between classes.
 
+## Installation
