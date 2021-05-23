@@ -24,7 +24,7 @@ whether the person will get heart attack or not.
 
 In this project chi-squre test has been used for to checkfeature importance of categorical variableand independent t-test is used to compare the mean of variables
 grouped on the basis of output category and by finding correlation among numerical variables to get the 
-importance of each variable in deciding output.Features renaming also done with help of [google](https://archive.ics.uci.edu/ml/datasets/Heart+Disease/).
+importance of each variable in deciding output.Features renaming also done with help of google,you can find [here](https://archive.ics.uci.edu/ml/datasets/Heart+Disease/).
 
 We also use Pipeline method to apply 10 classifiction algorithms(1.logistic Regression 2.Decisiontreeclassifier 
 3.Randomforestclassifier 4.GaussianNB 5.KNN 6.Gboost Classifier 7.AdaboostClassifier8.SGDClassifier 9.SVC 10.MLP Classifier)
