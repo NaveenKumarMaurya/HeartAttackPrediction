@@ -54,3 +54,5 @@ The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anac
 
 ## Technologies Used
 ![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/technology%20used.png)
+
+## [License](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/LICENSE)
