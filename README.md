@@ -3,7 +3,7 @@
 1. [Demo](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#demo)
 2. [Overview](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#overview)
 3. [Motivation](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#motivation)
-4. Technical Aspect
+4. [Technical Aspect](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#technical-aspect)
 5. Installation
 6. Run
 7. Deployement on Jupyter Notebook
