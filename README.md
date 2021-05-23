@@ -5,12 +5,10 @@
 3. [Motivation](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#motivation)
 4. [Technical Aspect](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#technical-aspect)
 5. [Installation](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#installation)
-6. Run
-7. Deployement on Jupyter Notebook
-8. Directory tree
-9. Technologies Used
-10. License
-11. Credit
+6. Code Run
+7. Technologies Used
+8. License
+9. Credit
 
 
 ## Demo
