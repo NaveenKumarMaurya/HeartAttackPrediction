@@ -49,4 +49,4 @@ mostly these people are died from heart attack, which factor is different in the
 5.used **AUC-ROC** curve to check the ability of our model classifier to distinguish between classes.
 
 ## Installation
-The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anaconda**  python distribution. you can download Anaconda [here](https://www.anaconda.com/products/individual)
+The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anaconda**  python distribution. You can download Anaconda [here](https://www.anaconda.com/products/individual)
