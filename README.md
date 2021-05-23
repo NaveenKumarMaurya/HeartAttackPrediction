@@ -48,3 +48,8 @@ mostly these people are died from heart attack, which factor is different in the
 
 ## Installation
 The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anaconda**  python distribution. You can download Anaconda [here](https://www.anaconda.com/products/individual)
+
+## Code Run
+
+
+## Technologies Used
