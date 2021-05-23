@@ -57,6 +57,7 @@ The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anac
 ![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/technology%20used.png)
 
 ## Team
+![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/technology%20used.png)
 
 ## License
 NaveenKumarMaurya/HeartAttackPrediction is licensed under the Apache License 2.0
