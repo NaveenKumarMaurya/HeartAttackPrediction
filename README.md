@@ -7,7 +7,7 @@
 5. [Installation](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#installation)
 6. Code Run
 7. [Technologies Used](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#technologies-used)
-8. License
+8. [License](LICENSE)
 9. Credit
 
 
