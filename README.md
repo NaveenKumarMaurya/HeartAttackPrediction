@@ -33,6 +33,7 @@ state producing good accuracy and then we have got accuracy of 90% with choosing
 After plotting AUC-ROC curve we have got the value AUC=93% which is a good value for a model.
 
 ## Motivation
-In india, every year 30000 people get died from heart attack and this no increasing continuously every year
-thats why i was very curious to know about the effect of factors which causes the  heart attack and what is inter relation among  the independent variables
+In india, every year 30000 people get died from heart attack and this count is increasing continuously every year
+thats why i was very curious to know about the effect of various factors which causes the  heart attack ,which factor is more responsible for haert attack and what is corr- relation among  those factors.In India most of the people who died from heart attack are the politicial,celebrity,bussinesman  and govt.officials.I was very curious to know why 
+mostly these people are died from heart attack, which factor is different in their bodies.
 
