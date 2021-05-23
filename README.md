@@ -7,8 +7,9 @@
 5. [Installation](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#installation)
 6. Code Run
 7. [Technologies Used](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#technologies-used)
-8. [License](LICENSE)
-9. Credit
+8. Team
+9. [License](LICENSE)
+10. Credit
 
 
 ## Demo
@@ -54,6 +55,8 @@ The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anac
 
 ## Technologies Used
 ![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/technology%20used.png)
+
+## Team
 
 ## License
 NaveenKumarMaurya/HeartAttackPrediction is licensed under the Apache License 2.0
