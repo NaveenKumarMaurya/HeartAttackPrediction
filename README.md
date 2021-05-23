@@ -42,7 +42,7 @@ mostly these people are died from heart attack, which factor is different in the
 
 2.Statical test  is done with **scipy** and visualisation with **seaborn** & **matplotlib** for feature  analysis,EDA and to get the feature importance of variables.
 
-3.trained 10 classification models using **Pipeline** and **scikit learn**,choosen one having best the accuracy.
+3.trained 10 classification models using **Pipeline** and **scikit learn**,choosen one having the best accuracy.
 
 4.Used **for loop** and **gsearch**for hyperparameter tuning and appropriate random state to improve the  accuracy.
 
