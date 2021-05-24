@@ -72,3 +72,8 @@ The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anac
 NaveenKumarMaurya/HeartAttackPrediction is licensed under the Apache License 2.0.
 
 A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+## Credits
+1.[Kaggle]( https://www.kaggle.com/datasets)
+2.[Google](https://www.google.com/)
+ This project wouldn't have been possible without this tool. It saved my enormous amount of time while collecting the data
