@@ -51,7 +51,7 @@ mostly these people are died from heart attack, which factor is different in the
 The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anaconda**  python distribution. You can download Anaconda [here](https://www.anaconda.com/products/individual)
 
 ## Code Run
-
+https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/HEART%20ATTACK%20PREDICTION.ipynb
 
 ## Technologies Used
  [![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/pandas-python.png)](https://pandas.pydata.org/)
