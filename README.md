@@ -59,6 +59,7 @@ The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anac
 [![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/matplotlib.jpg)](https://matplotlib.org/)
 [![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/Seaborn.png)](https://seaborn.pydata.org/)
 [![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/sckit%20learn.png)](https://sklearn.org/)
+[![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/scipy.png)](https://www.scipy.org/)
 
 ## Team
 ## [Naveen Kumar Maurya](https://navinmaurya23.wixsite.com/naveenkumarmaurya)
