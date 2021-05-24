@@ -54,7 +54,12 @@ The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anac
 
 
 ## Technologies Used
-![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/technology%20used.png)
+1. Pandas 
+2. Numpy
+3. Scikit Learn
+4. Matplotlib
+5. Seaborn
+6. Scipy
 
 ## Team
 ## [Naveen Kumar Maurya](https://navinmaurya23.wixsite.com/naveenkumarmaurya)
