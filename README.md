@@ -55,12 +55,13 @@ The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anac
 
 ## Technologies Used
  [![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/pandas-python.png)](https://pandas.pydata.org/)
-
+[![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/numpy.jpeg)](https://numpy.org/)
 
 
 ## Team
 ## [Naveen Kumar Maurya](https://navinmaurya23.wixsite.com/naveenkumarmaurya)
 ![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/WhatsApp%20Image%202021-05-13%20at%2011.53.55%20AM.jpeg)
+
 
 
 ## License
