@@ -56,7 +56,7 @@ The code is written in python(version 3.8.5) in jupyter notebook IDE,with **Anac
 ## Technologies Used
  [![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/pandas-python.png)](https://pandas.pydata.org/)
 [![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/numpy.jpeg)](https://numpy.org/)
-
+[![](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/matplotlib.jpg)](https://matplotlib.org/)
 
 ## Team
 ## [Naveen Kumar Maurya](https://navinmaurya23.wixsite.com/naveenkumarmaurya)
