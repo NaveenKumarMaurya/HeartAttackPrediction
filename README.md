@@ -5,7 +5,7 @@
 3. [Motivation](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#motivation)
 4. [Technical Aspect](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#technical-aspect)
 5. [Installation](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#installation)
-6. Code Run
+6. [Code Run](https://github.com/NaveenKumarMaurya/HeartAttackPrediction#code-run)
 7. [Technologies Used](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#technologies-used)
 8. [Team](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#team)
 9. [License](LICENSE)
