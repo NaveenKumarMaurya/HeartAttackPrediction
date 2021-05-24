@@ -9,7 +9,7 @@
 7. [Technologies Used](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#technologies-used)
 8. [Team](https://github.com/NaveenKumarMaurya/HeartAttackPrediction/blob/main/README.md#team)
 9. [License](LICENSE)
-10. Credit
+10. Credits
 
 
 ## Demo
@@ -75,5 +75,7 @@ A permissive license whose main conditions require preservation of copyright and
 
 ## Credits
 1.[Kaggle]( https://www.kaggle.com/datasets)
+
 2.[Google](https://www.google.com/)
+
  This project wouldn't have been possible without this tool. It saved my enormous amount of time while collecting the data
